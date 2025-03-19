@@ -1,5 +1,5 @@
 # 💫 About Me:
-.Net Developer<br>Web Developer
+Web Developer<br>Full Stack .Net Developer<br>
 
 
 ## 🌐 Socials:
